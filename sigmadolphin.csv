@@ -1,0 +1,251 @@
+Number Word Version,Problem,Answer
+number_word_std.test,What is the sum of 1 and 1?,2
+number_word_std.test,When the smaller of two consecutive integers is added to three times the larger the result is 199. Find the smaller integer.,49
+number_word_std.test,The product of two positive consecutive odd integers is 399. The sum of these two integers is?,40
+number_word_std.test,The sum of three consecutive positive integers is 246.  Find the largest integer.,83
+number_word_std.test,The sum of 3 consecutive integers is 54. What is the greatest of the three integers?,19
+number_word_std.test,one number is 5 times another number. the sum of the two numbers is 270. what is the number,225
+number_word_std.test,The sum of two numbers is 52.  The larger number is three times the smaller number.  Find the larger number,39
+number_word_std.test,the larger of two numbers is 5 times the smaller number the sum of the numbers is 54 find the larger number,45
+number_word_std.test,One integer is four times another. The sum of the integers is 65. What is the value of the lesser integer?,13
+number_word_std.test,"The larger of 2 integers is one more than three times the smaller. If the sum of the two integers is 37, find the larger integer.",28
+number_word_std.test,The sum of two numbers is 70. The larger number is 4 more than twice the smaller number. What is the smaller number?,22
+number_word_std.test,There are 3 consecutive odd integers whose sum is 303. What is the value of the 3rd odd integer?,103
+number_word_std.test,The sum of three consecutive odd integers is 69. what is the largest of the integers?,25
+number_word_std.test,The sum of three consecutive odd integers is 27. What is the middle integer?,9
+number_word_std.test,the sum of three consecutive odd integers is 417. what is the largest of the three consecutive integers?,141
+number_word_std.test,The sum of two consecutive integers 111. Three times the larger integer less two times the smaller integer is 58. Find the value of the smaller integer,55
+number_word_std.test,Find the largest of three consecutive odd integers such that the sum of the first two integers is five more than the third integer,11
+number_word_std.test,"The sum of two numbers A and B is 3. The sum of their cubes is 36, What is the sum of their squares decreased by the product of the two numbers?",12
+number_word_std.test,"The sum of 5 consecutive integers is 1,000.  What is the value of the greatest of these integers?",202
+number_word_std.test,What is the greatest of 5 consecutive integers if the sum of these integers equals 185?,39
+number_word_std.test,"the sum of four consecutive integers is 250, what is the greatest of these integers",64
+number_word_std.test,what is the least of three consecutive integers whose sum is 18,5
+number_word_std.test,Find the 2-digit number whose tens digit is 3 less than the units digit and the original number is 6 more than 4 times the sum of the digits.,58
+number_word_std.test,Find the largest of four consecutive odd integers such that the sum of the first and the fourth is 27 less than three times the first integer.,39
+number_word_std.test,find the sum of the first 100 odd numbers?,10000
+number_word_std.test,The sum of five consecutive integers is 40. What is the smallest of the integers?,6
+number_word_std.test,The tens digits of a two-digit number is 2 less than the units digit. The sum of the digits is 12. Identify what the number is.,57
+number_word_std.test,"if three times the smaller of two consecutive integers is added to four times the larger, the result is 130. find the smaller integer.",18
+number_word_std.test,If three times the smaller of two consecutive integers is added to four times the larger the result is 137. Find the smaller integer,19
+number_word_std.test,"three times the smaller of two consecutive integers is added to four times the larger, the result is 67. find the smaller integer.",9
+number_word_std.test,"If three times the smaller of two consecutive integers is added to four times the larger, the result is  137. Find the smaller integer",19
+number_word_std.test,The sum of two numbers is 110. The larger number is 2 less than 7 times the smaller. Find the larger number,96
+number_word_std.test,The sum of 4 consecutive integers is 26. What is the product of the 4 numbers?,1680
+number_word_std.test,The difference of the squares of two consecutive positive even integers is 20. What is the average of the two numbers?,5
+number_word_std.test,M is a perfect square of an integer. The next larger perfect square is M + 461. What is M?,52900
+number_word_std.test,The sum of two consecutive odd integers is 236. What is the smaller integer?,117
+number_word_std.test,"if the sum of 7 consecutive integers is 434,then the greatest of the 7 integers is?",65
+number_word_std.test,The sum of two numbers is 3 and twice the larger number is 36 more than three times the smaller number.What is the larger number?,9
+number_word_std.test,The sum of two numbers is 58 and their difference is 4. Which is the greater of the two numbers?,31
+number_word_std.test,"if three times the smaller of two consecutive even integers is added to two times the larger, the result is 64. what is the smaller of the two integers?",12
+number_word_std.test,Find the larger of two consecutive integers if the larger is 149 less than twice the smaller.,151
+number_word_std.test,the sum of the squares of 3 consecutive positive numbers is 365. find the smallest of the 3,10
+number_word_std.test,"If the product of 2 consecutive positive odd integers is 15 more than 3 times their sum, then the larger integer is?",9
+number_word_std.test,Two consecutive odd integers have a sum of 48. What is the largest of the two integers?,25
+number_word_std.test,The sum of the larger of two consecutive numbers and five times the smaller one is 187. What is the smallest of the integers?,31
+number_word_std.test,The sum of three consecutive odd numbers is 135. Find the largest odd number?,47
+number_word_std.test,find the largest of three consecutive odd integers whose sum is -3,1
+number_word_std.test,"the larger of two integers is 3 more than the smaller. If twice the square of the smaller integer is increased by 3 times the larger integer, the result is 23. Find the larger integer.",5
+number_word_std.test,The sum of four consecutive odd integers is 296. What is the product of the smallest and largest of the four odd integers?,5467
+number_word_std.test,Find the larger of two consecutive integers whose sum is 4 less than three times the smaller integer.,6
+number_word_std.test,"sum of four consecutive integers is 686, then what is the sum of four previous consecutive integers ?",670
+number_word_std.test,What two-digit number is equal to twice the product of its digits?,36
+number_word_std.test,"In an even 2-digit number, the second digit is 3 times the first. what is the number?",26
+number_word_std.test,The difference between six times a number and 9 is equal to five times the sum of the number and 2. find the number,19
+number_word_std.test,the sum of two times a number and eight is equal to three times the difference between the number and four. What's the number?,20
+number_word_std.test,The tens digit of a certain two-digit number is 3 more than the units digit. The sum of the squares of the two digits is 117. Find the number.,96
+number_word_std.test,The sum of two consecutive odd numbers is 32.  What is the product of the two numbers?,255
+number_word_std.test,"the sum of 3 digits is 5. The first and last digits are the same. If the middle digit is exchanged with the first digit , the new number is 90 less than the original number. Find the original number.",212
+number_word_std.test,"The sum of the digits of a two-digit number is 7. If the digits are reversed, the new number is increased by 3 equals 4 times the original number. what is the number?",16
+number_word_std.test,The sum of three consecutive numbers is 600. What is the least of these three numbers?,199
+number_word_std.test,"The sum of two digits is 8. If the digits of the number are reversed, the number formed is 36 more than the number. What is the number?",26
+number_word_std.test,The sum of the digits of a two-digit number is 12. The number formed by interchanging the digits is 54 more than the original number. What is the original number?,39
+number_word_std.test,"the ratio of the number of coins mark has to the number of coins john has is 2:5. if john has 20 coins, how many coins does mark have?",8
+number_word_std.test,find the largest two-digit number which is equal to four times the sum of its digits,48
+number_word_std.test,"the sum of the digits of a two digit number is 12. if the digits are reversed, the number is 15 more than twice the original number. What is the original number?",39
+number_word_std.test,20% of the number is 3. Find the number?,15
+number_word_std.test,The ten's digit of a certain two digit number is twice the units digit. If the number is multiplied by the sum of its digits the result is 63. Find the number.,21
+number_word_std.test,"A two digit counting number has a value of 8 times the sum of its digits. If 6 times the units digit is 5 more than the tens digit, what is the number?",72
+number_word_std.test,The sum of the digits of a two-digit number is 7. The original two-digit number is 3 less than 4 times the number with its digits reversed. Find the original two-digit number.,61
+number_word_std.test,what two-digit number is twice the product of its digits?,36
+number_word_std.test,The product of the two-digit number and its tens digit is 54. Find the number if the sum of the digits when added to the number gives a result of 36?,27
+number_word_std.test,"a three-digit number, which is divisible by 10, has a hundreds digit that is one less than its tens digit. the number also is 52 times the sum of its digits. find the number",780
+number_word_std.test,"the sum of the digits of a two-digit number is 6. if the digits are reversed, the new number is three times the original tens digit. find the original number",51
+number_word_std.test,"the sum of the digits of a two-digit number is 9. if 45 is subtracted from the number, the digits of the number are reversed. find the number.",72
+number_word_std.test,"A two digit number is 7 times its unit digit. If 18 is added to the number, its digits are reversed. Find the number.",35
+number_word_std.test,the sum of the digits of a 2-digit number is 7. The tens digit is one less than 3 times the units digit. Find the number.,52
+number_word_std.test,"The tens digit of a 2-digit number is 9 less than twice the units digit. If the sum of the 2 digits is 18, what is the number ?",99
+number_word_std.test,four times the smallest of three consecutive odd integers is five more than three times the largest. What is the sum of these consecutive odd integers?,57
+number_word_std.test,the sum of a number and three times that number is 720. what is the number,180
+number_word_std.test,"How many three digit numbers start with a prime digit, have an even digit in the middle, and an odd digit at the end?",100
+number_word_std.test,"How many 3-digit positive integers are odd and do not contain the digit ""5""?",288
+number_word_std.test,A certain two-digit number has a value that that is three times the sum of its digits. The units digit is one more than three times the tens digit. Find the number.,27
+number_word_std.test,"A two digit number has its digits sum equal to 11.If you reverse the digits of this number, the new two digit number is 27 more than the original two digit number. Find the number.",47
+number_word_std.test,"A certain number is expressed by three digits whose sum is 10. The sum of the first and last digits is two-thirds (2/3) of the second digit, and if 198 is subtracted from the number, the digits will be reversed. What is the number?",361
+number_word_std.test,"The tens digit of a two-digit number is twice the units digit.  If the digits are reversed, the new number is 36 less than the original number.  Find the number.",84
+number_word_std.test,what is the sum of the first 100 odd numbers,10000
+number_word_std.test,if the average of 20 different positive numbers is 20 then what is the greatest possible number among these 20 numbers?,210
+number_word_std.test,"If 9n^2 - 30n + c is a perfect square for all integers n, what is the value of c?",25
+number_word_std.test,A 3- digit number in which one digit is the average of the other two digits is called an average number.  456 is an average  number because 5 is the average of 4 and 6.  How many three digit average numbers are there?,45
+number_word_std.test,How many whole numbers less than 500 have seven as the sum of their digits?,30
+number_word_std.test,Sum of 2 numbers is 35.3 times the larger number is the same as 4 times the smaller number. find the larger number.,20
+number_word_std.test,"if 5 times the smaller of two numbers is subtracted from twice the larger, the result is 16. if the larger is increased by 3 times the smaller, the result is 63. find the larger number.",33
+number_word_std.test,"the first three terms of an arithmetic sequence are (12-p), 2p, (4p-5) respectively where p is a constant.Find the value of p",7
+number_word_std.test,The sum of two numbers is 4. The sum of their squares is 18. WHat is the smaller of the two numbers?,4.236
+number_word_std.test,what is the difference between the sum of the first 2004 positive integers and the sum of the next 2004 positive?,4016016
+number_word_std.test,"If 3x - 1 = 11, what is the value of x^2 + x?",20
+number_word_std.test,The sum of the digits of a two digit number is 7. The tens' digit is 3 more than the ones' digit. What is the number?,52
+number_word_std.test,square root six over square root 7 multiplied by square root 14 over square root 3.,2
+number_word_std.test,"a two digit number is equal to four times the sum of its digits. If it is increased by 3, the resulting number is equal to three times the sum of its digits. Find the original number.",24
+number_word_std.test,The sum of the 32 terms in an arithmetic series is 5488 and the first term is 1. Find the last term in the series.,342
+number_word_std.test,"the difference between two numbers is 2184. if the bigger number is 3 times the smaller number, find the sum of the two numbers.",4368
+number_word_std.test,"consider the sequence A,B,C,D,E,F,G,H. The sum of any 3 consecutive terms is 14. If B=7 and F=4. what is D?",3
+number_word_std.test,"if p+q=5 and 2pq=8, what is p^2+q^2?",17
+number_word_std.test,The sum of two numbers is 28. Their products is 7.Find the sum of the reciprocals of the numbers!,4
+number_word_std.test,How many 7-digit telephone numbers are there if the number meets the following conditions?- the first digit is not 5 or 7- the second digit is 7- the fifth digit is 1- the last digit is 3- none of the digits is 6- the leading digit may not be 0 or 1,3645
+number_word_std.test,"In an arithmetic  sequence, the 7th term minus the 1st term equals 18. The sum of the 1st and 7th term is -2. Find the 6th term.",5
+number_word_std.test,"The difference of the sum and product of two integers is equal to the sum of their product and difference, and the product of their difference and sum is equal to the difference of their product and sum.  What is are the possible values of the product of their sum and difference?",0
+number_word_std.test,Find the five digit number in which the first two digits are the square of the third digit and the last two digits are the square of the digit that is one less than the third digit. The sum of all the digits is 22.,36625
+number_word_std.test,"The units digit of a two-digit number is one-third the tens digit. When the digits are reversed, the new number is two more than four times the tens digit. Find the original number.",62
+number_word_std.test,what percent of 50 is 6?,12
+number_word_std.test,The sum of 3 consecutive EVEN integers is 174. What is the first integer?,56
+number_word_std.test,"If the average of 4 and x is equal to the average of 2, 8, and x, what is the value of x?",8
+number_word_std.test,what two digit number is three times the sum of its digits?,27
+number_word_std.test,"the sum of two numbers is 20, the difference of the same two numbers is 6. what is the product of the two numbers?",91
+number_word_std.test,"The ones digit of a number that is less than 100 is 4 greater than the tens digit. The sum of the number and the product of the digits is 58. Find the number, please.",37
+number_word_std.test,What is the sum of 6 ï¿½ï¿½ 103 and 3 ï¿½ï¿½102?,924
+number_word_std.test,The tens digit of a certain two-digit number is 1 more than 3 times the units digit. The original number is 9 less than 3 times the number formed by interchanging the digits. Find the original number.,72
+number_word_std.test,The sum of the digits of a two digit number is one third of the number. The units digit is 5 more than the tens digit. What is the number?,27
+number_word_std.test,"the units digit of a two-digit number is less than its tens digit. if the number is divided by the sum of its digits, the quotient is 6 and the remainder is 8. find the number.",74
+number_word_std.test,"If r is the remainder when 80 is divided by 9 and n is the remainder when r is divided by 3, what is the value of rn?",16
+number_word_std.test,let x= 3^2x5^3x7^4 and Y=2^3x3x5^2. what is the greatest common factor of x and y?,75
+number_word_std.test,if x+y=0 and x is not equal to 0 then what is the value of x^2008 divided by y^2008?,1
+number_word_std.test,what is the geometric mean of the number 4 and 49?,14
+number_word_std.test,if 5^21 x 4^11= 2 x 10^n what is the value of n?,21
+number_word_std.linear.test,Find the larger of two consecutive integers if the larger is 149 less than twice the smaller.,151
+number_word_std.linear.test,The sum of two numbers is 3 and twice the larger number is 36 more than three times the smaller number.What is the larger number?,9
+number_word_std.linear.test,What is the sum of 1 and 1?,2
+number_word_std.linear.test,The sum of two numbers is 58 and their difference is 4. Which is the greater of the two numbers?,31
+number_word_std.linear.test,Two consecutive odd integers have a sum of 48. What is the largest of the two integers?,25
+number_word_std.linear.test,The sum of the larger of two consecutive numbers and five times the smaller one is 187. What is the smallest of the integers?,31
+number_word_std.linear.test,The sum of three consecutive odd numbers is 135. Find the largest odd number?,47
+number_word_std.linear.test,find the largest of three consecutive odd integers whose sum is -3,1
+number_word_std.linear.test,Find the larger of two consecutive integers whose sum is 4 less than three times the smaller integer.,6
+number_word_std.linear.test,"sum of four consecutive integers is 686, then what is the sum of four previous consecutive integers ?",670
+number_word_std.linear.test,The difference between six times a number and 9 is equal to five times the sum of the number and 2. find the number,19
+number_word_std.linear.test,the sum of two times a number and eight is equal to three times the difference between the number and four. What's the number?,20
+number_word_std.linear.test,"the sum of 3 digits is 5. The first and last digits are the same. If the middle digit is exchanged with the first digit , the new number is 90 less than the original number. Find the original number.",212
+number_word_std.linear.test,When the smaller of two consecutive integers is added to three times the larger the result is 199. Find the smaller integer.,49
+number_word_std.linear.test,The sum of three consecutive numbers is 600. What is the least of these three numbers?,199
+number_word_std.linear.test,"the ratio of the number of coins mark has to the number of coins john has is 2:5. if john has 20 coins, how many coins does mark have?",8
+number_word_std.linear.test,"The sum of two digits is 8. If the digits of the number are reversed, the number formed is 36 more than the number. What is the number?",26
+number_word_std.linear.test,"the sum of the digits of a two digit number is 12. if the digits are reversed, the number is 15 more than twice the original number. What is the original number?",39
+number_word_std.linear.test,The sum of three consecutive positive integers is 246.  Find the largest integer.,83
+number_word_std.linear.test,The sum of 3 consecutive integers is 54. What is the greatest of the three integers?,19
+number_word_std.linear.test,20% of the number is 3. Find the number?,15
+number_word_std.linear.test,"A two digit counting number has a value of 8 times the sum of its digits. If 6 times the units digit is 5 more than the tens digit, what is the number?",72
+number_word_std.linear.test,one number is 5 times another number. the sum of the two numbers is 270. what is the number,225
+number_word_std.linear.test,The sum of two numbers is 52.  The larger number is three times the smaller number.  Find the larger number,39
+number_word_std.linear.test,the larger of two numbers is 5 times the smaller number the sum of the numbers is 54 find the larger number,45
+number_word_std.linear.test,One integer is four times another. The sum of the integers is 65. What is the value of the lesser integer?,13
+number_word_std.linear.test,"The larger of 2 integers is one more than three times the smaller. If the sum of the two integers is 37, find the larger integer.",28
+number_word_std.linear.test,The sum of two numbers is 70. The larger number is 4 more than twice the smaller number. What is the smaller number?,22
+number_word_std.linear.test,four times the smallest of three consecutive odd integers is five more than three times the largest. What is the sum of these consecutive odd integers?,57
+number_word_std.linear.test,the sum of a number and three times that number is 720. what is the number,180
+number_word_std.linear.test,There are 3 consecutive odd integers whose sum is 303. What is the value of the 3rd odd integer?,103
+number_word_std.linear.test,The sum of three consecutive odd integers is 69. what is the largest of the integers?,25
+number_word_std.linear.test,"A two digit number has its digits sum equal to 11.If you reverse the digits of this number, the new two digit number is 27 more than the original two digit number. Find the number.",47
+number_word_std.linear.test,the sum of three consecutive odd integers is 417. what is the largest of the three consecutive integers?,141
+number_word_std.linear.test,The sum of three consecutive odd integers is 27. What is the middle integer?,9
+number_word_std.linear.test,"A two digit number is 7 times its unit digit. If 18 is added to the number, its digits are reversed. Find the number.",35
+number_word_std.linear.test,what is the sum of the first 100 odd numbers,10000
+number_word_std.linear.test,if the average of 20 different positive numbers is 20 then what is the greatest possible number among these 20 numbers?,210
+number_word_std.linear.test,"If 9n^2 - 30n + c is a perfect square for all integers n, what is the value of c?",25
+number_word_std.linear.test,The sum of two consecutive integers 111. Three times the larger integer less two times the smaller integer is 58. Find the value of the smaller integer,55
+number_word_std.linear.test,Find the largest of three consecutive odd integers such that the sum of the first two integers is five more than the third integer,11
+number_word_std.linear.test,How many whole numbers less than 500 have seven as the sum of their digits?,30
+number_word_std.linear.test,Sum of 2 numbers is 35.3 times the larger number is the same as 4 times the smaller number. find the larger number.,20
+number_word_std.linear.test,"The sum of 5 consecutive integers is 1,000.  What is the value of the greatest of these integers?",202
+number_word_std.linear.test,"if 5 times the smaller of two numbers is subtracted from twice the larger, the result is 16. if the larger is increased by 3 times the smaller, the result is 63. find the larger number.",33
+number_word_std.linear.test,What is the greatest of 5 consecutive integers if the sum of these integers equals 185?,39
+number_word_std.linear.test,what is the difference between the sum of the first 2004 positive integers and the sum of the next 2004 positive?,4016016
+number_word_std.linear.test,"the sum of four consecutive integers is 250, what is the greatest of these integers",64
+number_word_std.linear.test,what is the least of three consecutive integers whose sum is 18,5
+number_word_std.linear.test,The sum of the digits of a two digit number is 7. The tens' digit is 3 more than the ones' digit. What is the number?,52
+number_word_std.linear.test,The sum of the 32 terms in an arithmetic series is 5488 and the first term is 1. Find the last term in the series.,342
+number_word_std.linear.test,"a two digit number is equal to four times the sum of its digits. If it is increased by 3, the resulting number is equal to three times the sum of its digits. Find the original number.",24
+number_word_std.linear.test,"the difference between two numbers is 2184. if the bigger number is 3 times the smaller number, find the sum of the two numbers.",4368
+number_word_std.linear.test,"consider the sequence A,B,C,D,E,F,G,H. The sum of any 3 consecutive terms is 14. If B=7 and F=4. what is D?",3
+number_word_std.linear.test,Find the largest of four consecutive odd integers such that the sum of the first and the fourth is 27 less than three times the first integer.,39
+number_word_std.linear.test,"In an arithmetic  sequence, the 7th term minus the 1st term equals 18. The sum of the 1st and 7th term is -2. Find the 6th term.",5
+number_word_std.linear.test,find the sum of the first 100 odd numbers?,10000
+number_word_std.linear.test,The sum of five consecutive integers is 40. What is the smallest of the integers?,6
+number_word_std.linear.test,what percent of 50 is 6?,12
+number_word_std.linear.test,The sum of 3 consecutive EVEN integers is 174. What is the first integer?,56
+number_word_std.linear.test,"If the average of 4 and x is equal to the average of 2, 8, and x, what is the value of x?",8
+number_word_std.linear.test,what two digit number is three times the sum of its digits?,27
+number_word_std.linear.test,"if three times the smaller of two consecutive integers is added to four times the larger, the result is 130. find the smaller integer.",18
+number_word_std.linear.test,If three times the smaller of two consecutive integers is added to four times the larger the result is 137. Find the smaller integer,19
+number_word_std.linear.test,"three times the smaller of two consecutive integers is added to four times the larger, the result is 67. find the smaller integer.",9
+number_word_std.linear.test,"If three times the smaller of two consecutive integers is added to four times the larger, the result is  137. Find the smaller integer",19
+number_word_std.linear.test,The sum of two numbers is 110. The larger number is 2 less than 7 times the smaller. Find the larger number,96
+number_word_std.linear.test,What is the sum of 6 ï¿½ï¿½ 103 and 3 ï¿½ï¿½102?,924
+number_word_std.linear.test,The sum of the digits of a two digit number is one third of the number. The units digit is 5 more than the tens digit. What is the number?,27
+number_word_std.linear.test,The sum of two consecutive odd integers is 236. What is the smaller integer?,117
+number_word_std.linear.test,"if the sum of 7 consecutive integers is 434,then the greatest of the 7 integers is?",65
+number_word_std.linear.test,"if three times the smaller of two consecutive even integers is added to two times the larger, the result is 64. what is the smaller of the two integers?",12
+number_word_std.linear_t2.test,Find the larger of two consecutive integers if the larger is 149 less than twice the smaller.,151
+number_word_std.linear_t2.test,Two consecutive odd integers have a sum of 48. What is the largest of the two integers?,25
+number_word_std.linear_t2.test,The sum of three consecutive odd numbers is 135. Find the largest odd number?,47
+number_word_std.linear_t2.test,find the largest of three consecutive odd integers whose sum is -3,1
+number_word_std.linear_t2.test,The difference between six times a number and 9 is equal to five times the sum of the number and 2. find the number,19
+number_word_std.linear_t2.test,What is the sum of 1 and 1?,2
+number_word_std.linear_t2.test,the sum of two times a number and eight is equal to three times the difference between the number and four. What's the number?,20
+number_word_std.linear_t2.test,"the ratio of the number of coins mark has to the number of coins john has is 2:5. if john has 20 coins, how many coins does mark have?",8
+number_word_std.linear_t2.test,"The sum of two digits is 8. If the digits of the number are reversed, the number formed is 36 more than the number. What is the number?",26
+number_word_std.linear_t2.test,20% of the number is 3. Find the number?,15
+number_word_std.linear_t2.test,the sum of a number and three times that number is 720. what is the number,180
+number_word_std.linear_t2.test,what is the sum of the first 100 odd numbers,10000
+number_word_std.linear_t2.test,"If 9n^2 - 30n + c is a perfect square for all integers n, what is the value of c?",25
+number_word_std.linear_t2.test,what percent of 50 is 6?,12
+number_word_std.linear_t2.test,The sum of 3 consecutive EVEN integers is 174. What is the first integer?,56
+number_word_std.linear_t2.test,When the smaller of two consecutive integers is added to three times the larger the result is 199. Find the smaller integer.,49
+number_word_std.linear_t2.test,The sum of three consecutive positive integers is 246.  Find the largest integer.,83
+number_word_std.linear_t2.test,The sum of 3 consecutive integers is 54. What is the greatest of the three integers?,19
+number_word_std.linear_t2.test,one number is 5 times another number. the sum of the two numbers is 270. what is the number,225
+number_word_std.linear_t2.test,The sum of two numbers is 52.  The larger number is three times the smaller number.  Find the larger number,39
+number_word_std.linear_t2.test,the larger of two numbers is 5 times the smaller number the sum of the numbers is 54 find the larger number,45
+number_word_std.linear_t2.test,One integer is four times another. The sum of the integers is 65. What is the value of the lesser integer?,13
+number_word_std.linear_t2.test,"The larger of 2 integers is one more than three times the smaller. If the sum of the two integers is 37, find the larger integer.",28
+number_word_std.linear_t2.test,The sum of two numbers is 70. The larger number is 4 more than twice the smaller number. What is the smaller number?,22
+number_word_std.linear_t2.test,There are 3 consecutive odd integers whose sum is 303. What is the value of the 3rd odd integer?,103
+number_word_std.linear_t2.test,The sum of three consecutive odd integers is 69. what is the largest of the integers?,25
+number_word_std.linear_t2.test,The sum of three consecutive odd integers is 27. What is the middle integer?,9
+number_word_std.linear_t2.test,the sum of three consecutive odd integers is 417. what is the largest of the three consecutive integers?,141
+number_word_std.linear_t2.test,The sum of two consecutive integers 111. Three times the larger integer less two times the smaller integer is 58. Find the value of the smaller integer,55
+number_word_std.linear_t2.test,"The sum of 5 consecutive integers is 1,000.  What is the value of the greatest of these integers?",202
+number_word_std.linear_t2.test,What is the greatest of 5 consecutive integers if the sum of these integers equals 185?,39
+number_word_std.linear_t2.test,"the sum of four consecutive integers is 250, what is the greatest of these integers",64
+number_word_std.linear_t2.test,what is the least of three consecutive integers whose sum is 18,5
+number_word_std.linear_t2.test,find the sum of the first 100 odd numbers?,10000
+number_word_std.linear_t2.test,"if three times the smaller of two consecutive integers is added to four times the larger, the result is 130. find the smaller integer.",18
+number_word_std.linear_t2.test,If three times the smaller of two consecutive integers is added to four times the larger the result is 137. Find the smaller integer,19
+number_word_std.linear_t2.test,"three times the smaller of two consecutive integers is added to four times the larger, the result is 67. find the smaller integer.",9
+number_word_std.linear_t2.test,"If three times the smaller of two consecutive integers is added to four times the larger, the result is  137. Find the smaller integer",19
+number_word_std.linear_t2.test,The sum of two numbers is 3 and twice the larger number is 36 more than three times the smaller number.What is the larger number?,9
+number_word_std.linear_t2.test,The sum of two numbers is 58 and their difference is 4. Which is the greater of the two numbers?,31
+number_word_std.linear_t6.test,When the smaller of two consecutive integers is added to three times the larger the result is 199. Find the smaller integer.,49
+number_word_std.linear_t6.test,one number is 5 times another number. the sum of the two numbers is 270. what is the number,225
+number_word_std.linear_t6.test,The sum of two numbers is 52.  The larger number is three times the smaller number.  Find the larger number,39
+number_word_std.linear_t6.test,the larger of two numbers is 5 times the smaller number the sum of the numbers is 54 find the larger number,45
+number_word_std.linear_t6.test,One integer is four times another. The sum of the integers is 65. What is the value of the lesser integer?,13
+number_word_std.linear_t6.test,There are 3 consecutive odd integers whose sum is 303. What is the value of the 3rd odd integer?,103
+number_word_std.linear_t6.test,The sum of three consecutive odd integers is 69. what is the largest of the integers?,25
+number_word_std.linear_t6.test,The sum of three consecutive odd integers is 27. What is the middle integer?,9
+number_word_std.linear_t6.test,the sum of three consecutive odd integers is 417. what is the largest of the three consecutive integers?,141
+number_word_std.linear_t6.test,The sum of three consecutive odd numbers is 135. Find the largest odd number?,47
+number_word_std.linear_t6.test,find the largest of three consecutive odd integers whose sum is -3,1
+number_word_std.linear_t6.test,The difference between six times a number and 9 is equal to five times the sum of the number and 2. find the number,19
+number_word_std.linear_t6.test,the sum of two times a number and eight is equal to three times the difference between the number and four. What's the number?,20
+number_word_std.linear_t6.test,20% of the number is 3. Find the number?,15
